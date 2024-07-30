@@ -1,7 +1,3 @@
-Aqui está um exemplo de como poderia ser o README.md do seu projeto Aromaspot:
-
----
-
 # Aromaspot
 
 Este projeto web, intitulado "Aromaspot", foi desenvolvido com o objetivo de explorar e aplicar os recursos oferecidos pelo framework Bootstrap para criar um site funcional e esteticamente agradável. Abaixo estão detalhadas as principais funcionalidades e conhecimentos adquiridos durante o desenvolvimento do projeto.
@@ -59,7 +55,3 @@ Este projeto web, intitulado "Aromaspot", foi desenvolvido com o objetivo de exp
 ## Conclusão
 
 O projeto Aromaspot exemplifica o uso eficaz do Bootstrap para o desenvolvimento de um site moderno e responsivo, demonstrando um profundo entendimento das funcionalidades oferecidas pelo framework. O uso consistente e criativo das ferramentas do Bootstrap resultou em uma aplicação web com design atrativo e funcionalidade sólida.
-
----
-
-Este README.md pode ser ajustado conforme necessário para incluir informações adicionais ou destacar aspectos específicos do seu projeto.
